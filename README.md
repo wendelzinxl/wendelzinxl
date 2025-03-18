@@ -1,6 +1,6 @@
 - 👋 Oi, Eu sou @wendelzinxl
 - 👀 Estou interessado em aprender programação  
-- - 💞️ Estou procurando colaborar em sites em Front-End
+- 💞️ Estou procurando colaborar em sites em Front-End
 - 📫 Como entrar em contato comigo @wendelzinxl no instagra,
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Gosto de trabalhar com Suporte
